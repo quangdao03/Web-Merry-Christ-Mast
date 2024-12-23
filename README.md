@@ -20,3 +20,4 @@ Một trang web tương tác với hiệu ứng cây thông Noel đẹp mắt, �
 3. Chỉnh sửa các tham số trong file `style.css` để thay đổi giao diện cây thông Noel.
 
 4. Chạy lệnh `npm run build` để tạo ra file `bundle.js` và `bundle.css` cho việc build web app .
+# Web-Merry-Christ-Mast
